@@ -1,3 +1,7 @@
+* {
+  padding: 20px;
+}
+
 .ul {
   text-align: center;
   color: #cc7c52;
@@ -10,7 +14,7 @@ ol {
   font-size: 25px;
   font-family: "Times New Roman", Georgia, serif;
   background-color: #ccddd7;
-
+  padding-left: 25px;
 }
 
 .burger-img {
@@ -53,4 +57,12 @@ p {
   text-align: left;
   font-size: 30px;
   background-color: #ccddd7;
+}
+
+.recipe-link {
+  font-size: 40px;
+}
+
+.ul ul {
+  list-style: none;
 }
